@@ -3,7 +3,15 @@ import sys
 import os
 import random
 
-tables = {}
+
+#1_tables =
+
+
+
+#for i in range(1,13):
+	#if i == 1:
+		
+
 
 
 def main():
