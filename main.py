@@ -26,6 +26,10 @@ def main():
 		victim_list[victim_counter] = first_digits[victim_counter]
 		victim_counter += 1
 	#Victim list is also 1 through 12
+	#TIME TO MULLTIPLY
+	answer_list = []
+	#for x in first_digits:
+		
 		
 	
 	
