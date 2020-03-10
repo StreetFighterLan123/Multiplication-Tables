@@ -9,16 +9,20 @@ import random
 
 
 
+
 	
 		
 
 
 
-def main():
-	print "This project is still in development"
+#def main():
+	#value_list = []
+	#victim_counter = 0
+	#print "This project is still in development"
 	#Work on the main loop here.
-	first_digits = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+	#first_digits = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 	#for i in range (1,13):
+		#victim_list[victim_counter] = first_digits[
 		
 	
 	
